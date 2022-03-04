@@ -1,0 +1,6 @@
+
+vscode:
+  extensions:
+    - llvm-vs-code-extensions.vscode-clangd
+    - ms-vscode.cmake-tools
+    - twxs.cmake
